@@ -20,7 +20,7 @@ def draw_menu(font):
     right_x = px + pw - padding
 
     y = py + 40
-    font.draw("VOID STRIKER", cx, y, CYAN, "title", center=True)
+    font.draw("VOID STRYKER", cx, y, CYAN, "title", center=True)
     y += 50
     font.draw("A SPACE COMBAT EXPERIENCE", cx, y, (0.5, 0.8, 1.0, 1.0), "sub", center=True)
 

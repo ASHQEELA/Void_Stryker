@@ -11,7 +11,7 @@ def draw_hud(font, player, score, wave, combo, boss_active):
     draw_rect_filled(8, hud_y, 220, 120, (0.0, 0.0, 0.0, 0.55))
     draw_rect_outline(8, hud_y, 220, 120, CYAN, 1)
 
-    font.draw("VOID STRIKER", 18, SCREEN_H - 24, CYAN, "small")
+    font.draw("VOID STRYKER", 18, SCREEN_H - 24, CYAN, "small")
 
     # HP pips
     font.draw("HULL", 18, SCREEN_H - 108, GRAY, "small")

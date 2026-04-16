@@ -1,6 +1,6 @@
 SCREEN_W, SCREEN_H = 900, 700
 FPS = 60
-TITLE = "VOID STRIKER"
+TITLE = "VOID STRYKER"
 
 # Colors (RGBA floats)
 BLACK   = (0.0, 0.0, 0.0, 1.0)
